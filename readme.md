@@ -10,5 +10,12 @@
 
 >git remote : connect repo to project
 
+2. About 
+>Unit 1
+
+>Unit 2
+
+>Unit 3
+
 
 
